@@ -4,3 +4,4 @@ Parts I used:
 - Servo sg90
 - RFID RC522 & cards
 - Passive buzzer
+Link to video of the demo: https://drive.google.com/file/d/1edqTQZx_eRMeuu6D4tqCwrekRUgRMcwE/view?usp=drive_link
